@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![logo](https://user-images.githubusercontent.com/45699480/121432019-73bea880-c97a-11eb-8743-06d3a9e26919.png)
+
 
 <!--
 **thedoofmodern/thedoofmodern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
